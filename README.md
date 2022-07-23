@@ -1,6 +1,6 @@
 # Programação funcional em Python:
 
-##Funções Anonimas (lambda):
+## Funções Anônimas (lambda)
 Em Python, uma função anônima significa que uma função não tem nome. Como já sabemos, a palavra-chave def é usada para definir uma função normal em Python.
 Da mesma forma, a palavra-chave lambda é usada para definir uma função anônima em Python, elas são da mesma forma que as funções lambda em haskell.
 
@@ -13,20 +13,20 @@ def cube(y):
 lambda_cube = lambda y: y*y*y 
 
 
-##Filter:
+## Filter:
 A função filter() como diz o nome ela filtra uma lista dada, com a ajuda de uma função que testa cada elemento na sequência para ser verdadeiro ou não.
-Com a lista resultante sendo apenas com os elemetos verdadeiros.
+Com a lista resultante sendo apenas com os elementos verdadeiros.
 
 sintaxe: filter (função, sequência)
-Ex: Onde queremos que sejam mantidos apenas os elemntos pares desta lista.
+Ex: Onde queremos que sejam mantidos apenas os elementos pares desta lista.
 lista1 = [1, 4, 9, 16, 2]
 
 list(filter(lamdba x: x % 2 == 0, lista1))  
 
 
 
-##Map:
-A função map() em Python recebe uma função e uma lista como argumento. Cada elemento da lista e aplicada na função, e uma nova 
+## Map:
+A função map() em Python recebe uma função e uma lista como argumento. Cada elemento da lista é aplicada na função, e uma nova 
 lista é retornada que contém todos os elementos modificados pela função.
 
 Sintaxe: map(função, sequência)
