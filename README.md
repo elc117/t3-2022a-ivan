@@ -2,7 +2,7 @@
 ## Aluno: Ivan Maidana da Silveira
 
 ## Motivação
-No decorrer da disciplina foi abordado programação funcional, com a linguagem haskell que aceita apenas o paradigma funcional, mas neste trabalho eu irei usar programação funcional na linguagem python, eu escolhi este tema para o meu trabalho pois acredito, que as facilitações da programação funcional serão muito úteis, sendo usadas em uma linguagem amplamente conhecida por diversos programadores como é o caso do python. 
+No decorrer da disciplina foi abordado programação funcional, com a linguagem haskell que aceita apenas o paradigma funcional, mas neste trabalho eu irei usar programação funcional na linguagem python, eu escolhi este tema para o meu trabalho pois acredito, que as facilitações da programação funcional serão muito úteis, sendo usadas em uma linguagem que aceita multiparadigmas. 
 
 ## Funções Anônimas (lambda)
 Em Python, uma função anônima significa que uma função não tem nome. Como já sabemos, a palavra-chave def é usada para definir uma função normal em Python.
